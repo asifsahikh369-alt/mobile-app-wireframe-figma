@@ -13,7 +13,7 @@ A 4-screen low-fidelity mobile application wireframe designed in Figma for an ap
 
 | 01. Home Screen | 02. Product Catalog | 03. Product Detail | 04. Cart & Summary |
 |:---:|:---:|:---:|:---:|
-| ![Home](screenshots/01_home.png) | ![Catalog](screenshots/02_catalog.png) | ![Detail](screenshots/03_detail.png) | ![Cart](screenshots/04_cart.png) |
+| ![Home](01_Home.png) | ![Catalog](02_Catalog.png) | ![Detail](03_ProductDetail.png) | ![Cart](04_Cart.png) |
 
 > *(Note: Export your 4 frames as PNGs from Figma, create a folder named `screenshots` in this repo, and upload them as `01_home.png`, `02_catalog.png`, `03_detail.png`, and `04_cart.png`)*
 
