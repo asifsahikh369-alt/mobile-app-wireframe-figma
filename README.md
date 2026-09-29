@@ -15,7 +15,6 @@ A 4-screen low-fidelity mobile application wireframe designed in Figma for an ap
 |:---:|:---:|:---:|:---:|
 | ![Home](01_Home.png) | ![Catalog](02_Catalog.png) | ![Detail](03_ProductDetail.png) | ![Cart](04_Cart.png) |
 
-> *(Note: Export your 4 frames as PNGs from Figma, create a folder named `screenshots` in this repo, and upload them as `01_home.png`, `02_catalog.png`, `03_detail.png`, and `04_cart.png`)*
 
 ---
 
@@ -26,7 +25,7 @@ A 4-screen low-fidelity mobile application wireframe designed in Figma for an ap
 * **Target Audience:** College students and young adults seeking an efficient, uncluttered apparel shopping experience on mobile devices.
 
 ### 2. User Persona
-* **Name:** Jordan Lee (Age 23 — Student / Tech Enthusiast)
+* **Name:** ABC (Age 23 — Student / Tech Enthusiast)
 * **Goal:** Quickly filter apparel by category/size, preview clean specifications, and check out with an itemized cost breakdown.
 * **Frustrations:** Complicated multi-step forms, unorganized product cards, and hidden shipping charges.
 
